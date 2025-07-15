@@ -64,10 +64,10 @@ Le dashboard permet :
 -  D’afficher le **nombre total de projets**
 -  De visualiser le **taux de réussite global**
 -  D’afficher un **graphique des succès/échecs**
-![Aperçu du Dashboard]("succes vs echec.png")
+![Aperçu du Dashboard](succes vs echec.png)
 
 -  De voir le **montant moyen demandé par catégorie**
-![Aperçu du Dashboard]("montant moyen.png")
+![Aperçu du Dashboard](montant moyen.png)
 
 
 Le tout **en temps réel**, en fonction des filtres choisis par l’utilisateur dans la sidebar.
@@ -91,6 +91,8 @@ http://localhost:8501
 
 ---
 
-## 👥 Auteurs : **Ikram KOUIBAATI**
+## 👥 Auteurs : Ikram KOUIBAATI
 
 Ce projet a été réalisé dans le cadre d'un travail d'analyse de données avec Streamlit. 
+
+---
